@@ -27,7 +27,7 @@ git clone https://github.com/brian7346/poster-express.git
 
 3. Открыть терминал (или командную строку) и перейти в корневую директорию сервера.
 ```
-cd express-threads-api
+cd poster-express-api
 ```
 
 4. Переименовать файл .env.local (убрать .local)
