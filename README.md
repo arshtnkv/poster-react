@@ -27,14 +27,14 @@
 
 <br clear="both">
 
-1. Склонировать репозиторий с клиентским приложением по ссылке https://github.com/arshtnkv/poster-react.git на свой компьютер.
+1. Склонировать репозиторий с клиентским приложением по ссылке https://github.com/arshtnkv/poster-react на свой компьютер.
 ```
 git clone https://github.com/arshtnkv/poster-react.git
 ```
 
-2. Склонировать репозиторий с api по ссылке [https://github.com/brian7346/express-threads-api.git](https://github.com/brian7346/express-threads-api/tree/main) на свой компьютер.
+2. Склонировать репозиторий с api по ссылке [https://github.com/arshtnkv/poster-express-api](https://github.com/arshtnkv/poster-express-ap) на свой компьютер.
 ```
-git clone https://github.com/brian7346/poster-express.git
+git clone https://github.com/arshtnkv/poster-express-api.git
 ```
 
 3. Открыть терминал (или командную строку) и перейти в корневую директорию сервера.
