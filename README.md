@@ -1,11 +1,15 @@
-# 🔥 Пет проект "Poster": Социальная сеть для публикации постов
+# 🔥 Пет проект "Poster": Социальная сеть для публикации постов<br>
+
+URL <a href="https://poster-react-eta.vercel.app/" target="_blank">https://poster-react-eta.vercel.app</a><br>
+BACKEND <a href="https://github.com/arshtnkv/poster-express-api" target="_blank">https://github.com/arshtnkv/poster-express-api</a>
+
 ## ⚡ Клиентская часть приложения
 
 <div align="center">
   <img height="500" width="500" src="src/meta/poster-image.png" />
 </div>
 
-### >🛠 Технологии:
+### 🛠 Технологии:
 
 - React
 - Typescript
@@ -23,31 +27,36 @@
 
 <br clear="both">
 
-## Для запуска проекта, необходимо выполнить следующие шаги:
+## Для запуска проекта локально, необходимо выполнить следующие шаги:
 
 <br clear="both">
 
 1. Склонировать репозиторий с клиентским приложением по ссылке https://github.com/arshtnkv/poster-react на свой компьютер.
+
 ```
 git clone https://github.com/arshtnkv/poster-react.git
 ```
 
 2. Склонировать репозиторий с api по ссылке [https://github.com/arshtnkv/poster-express-api](https://github.com/arshtnkv/poster-express-api) на свой компьютер.
+
 ```
 git clone https://github.com/arshtnkv/poster-express-api.git
 ```
 
 3. Открыть терминал (или командную строку) и перейти в корневую директорию сервера.
+
 ```
 cd poster-express-api
 ```
 
 4. Переименовать файл .env.local (убрать .local)
+
 ```
 .env
 ```
 
 5. Запустить команду docker compose которая поднимет сервер, клиент и базу данных
+
 ```
 docker compose up
 ```
